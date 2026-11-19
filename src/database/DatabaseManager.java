@@ -1,8 +1,6 @@
 /*
  * Campus Lost and Found System
- * Team members (fill in): Mohamed Mabrouk - [ID] | Abdullah Ibrahim - [ID] | Jana Ibrahim - [ID]
- *                         Rodina Ayman - [ID] | Youssef Nasr - [ID] | Farah Tawfik - [ID]
- *
+
  * OWNER: Mohamed (database bonus). Keep the public method names and signatures unchanged.
  * Storage only: searching an item by ID must still use the BST, never an SQL query.
  * SQL is allowed ONLY inside this package (src/database/).

@@ -1,7 +1,5 @@
 /*
  * Campus Lost and Found System
- * Team members (fill in): Mohamed Mabrouk - [ID] | Abdullah Ibrahim - [ID] | Jana Ibrahim - [ID]
- *                         Rodina Ayman - [ID] | Youssef Nasr - [ID] | Farah Tawfik - [ID]
  *
  * OWNER: Youssef. Keep the public method names and signatures below unchanged.
  * Uses ItemService.getAllItems() and your Sorter.

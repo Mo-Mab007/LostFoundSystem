@@ -1,7 +1,5 @@
 /*
  * Campus Lost and Found System
- * Team members (fill in): Mohamed Mabrouk - [ID] | Abdullah Ibrahim - [ID] | Jana Ibrahim - [ID]
- *                         Rodina Ayman - [ID] | Youssef Nasr - [ID] | Farah Tawfik - [ID]
  *
  * OWNER: Mohamed (GUI bonus). The GUI calls ONLY service.LostFoundSystem. No logic or SQL here.
  */

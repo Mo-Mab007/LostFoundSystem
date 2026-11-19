@@ -1,7 +1,5 @@
 /*
  * Campus Lost and Found System
- * Team members (fill in): Mohamed Mabrouk - [ID] | Abdullah Ibrahim - [ID] | Jana Ibrahim - [ID]
- *                         Rodina Ayman - [ID] | Youssef Nasr - [ID] | Farah Tawfik - [ID]
  *
  * OWNER: Mohamed. The ONLY class the GUI and Main talk to.
  * It creates all services, will load data from the database at startup and save after every change.
