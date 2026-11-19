@@ -1,6 +1,6 @@
 # Design Package
 
-Owner: Rodina. Collect the details from each member by Day 5 and ask them to check what you wrote about their part.
+Owner: Rodina. Collect the details from each member and ask them to check what you wrote about their part.
 
 ## 1. Modules and classes
 (Class/module diagram: packages model, structures, service, database, gui, and which class calls which.)
